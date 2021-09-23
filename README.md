@@ -1,6 +1,6 @@
 # Project from front-end Advanced course
 
-My own idea for studying RegEx.
+My own idea for studying RegEx. Available only on bulgarian.
 
 ## Links
 
